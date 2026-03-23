@@ -1,6 +1,9 @@
 # Overview of the Dataset
 The dataset used in this assignment is the Heart Failure Clinical Records dataset provided by UC Irvine's Machine Learning Repository.  This dataset has the medical records of 299 patients who had heart failures.  I chose this dataset because I am interested in AI/ML for medical use cases and was searching for a dataset that matched these interests.  
 
+# Video
+Please find a video overview of the dashboard in the docs folder of the repository
+
 # Variables
 | Variable                 | Type    | Description                                               |
 |--------------------------|---------|-----------------------------------------------------------|
