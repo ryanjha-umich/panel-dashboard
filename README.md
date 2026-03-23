@@ -95,6 +95,19 @@ I noticed from Dr. Bobby's video that Panel would not work in Vorcareum, so I in
 
 
 # Setup Instructions
+### Clone the repo
+```
+git clone https://github.com/ryanjha-umich/panel-dashboard.git
+```
 
+### Setup the Environment
+```
+python3 -m venv .venv
+```
+
+### Install Requirements
+```
+pip install -r requirements.txt
+```
 
 
